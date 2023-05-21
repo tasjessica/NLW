@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "PKief.material-icon-theme",
+      "rocketseat.theme-omni",
+      "ritwickdey.LiveServer"
+    ]
+  }
+
+  //extensões recomendadas pro projeto
+  //o prettier formata de forma automática o nosso código
+  //o material-icon-theme deixa os icones de arquivos e pastas mais bonitos
+  //o rocketseat.theme-omni deixa o vcode com uns temas diferentes
+  //LiveServer pra observar o arquivo funcionando
